@@ -7,5 +7,16 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Mohammad Vahedi",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mvahedii/automatic-password-generator.git"
+  },
+  "keywords": [
+    "password"
+  ],
+  "bugs": {
+    "url": "https://github.com/Mvahedii/automatic-password-generator/issues"
+  },
+  "homepage": "https://github.com/Mvahedii/automatic-password-generator#readme"
 }
