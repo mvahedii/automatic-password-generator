@@ -1,4 +1,4 @@
-export const autoPasswordGenerator = (length) => {
+export default autoPasswordGenerator = (length) => {
   const chars =
     "0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ&*()^%#!@$+-";
   let generatedPassword = "";
