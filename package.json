@@ -1,0 +1,11 @@
+{
+  "name": "@mvahedi/auto-password-generator",
+  "version": "1.0.0",
+  "description": "Automatic Password Generator for Node.js.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mohammad Vahedi",
+  "license": "ISC"
+}
