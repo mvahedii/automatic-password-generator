@@ -1,6 +1,6 @@
 {
   "name": "@mvahedi/auto-password-generator",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Automatic Password Generator for Node.js.",
   "main": "index.js",
   "scripts": {
